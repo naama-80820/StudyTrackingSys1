@@ -1,0 +1,6 @@
+@StudyTrackingSys1_HostAddress = http://localhost:5134
+
+GET {{StudyTrackingSys1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
